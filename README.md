@@ -1,4 +1,4 @@
-# Linear-Regression-Machine-Learning-Project
+# Regression-Machine-Learning-Project
 
 ##### The data used to perform this project is [Solar Power Generation](https://www.kaggle.com/datasets/pythonafroz/solar-powe-generation-data) from Kaggle.
 
@@ -17,3 +17,8 @@ Using numpy we converted the training data into two dimensional array.
 From sklearn we imported LinearRegression Algorithm to perform the prediction on training data and testing data and check the similarity using graphs.
 
 This is a beginner level project of Simple Linear Regression Machine Learning Algorithm.
+
+R2 score is used to check how the model perfroms well for future data.
+>If R2 score is near to 0 then the model has lot of problems and can't predict accuartely.
+>If R2 score is between 0 and 1 then the model can predict quite well but still check for other factors to avoid problems of overfitting and underfitting.
+>If R2 score is 1 then the model is perfect and predicts accuartely.
