@@ -6,7 +6,7 @@ This Project used libraries like **pandas, numpy, sklearn, matplotlib** to perfo
 >Pandas was used for data analysis, Numpy was used to convert selected columns into two dimensional, Sklearn was used to split data into train and test and Matplotlib was used to represent the sleected columns relation on the graph.
 
 First, the data in csv format is converted into a dataframe. Then we had selected the required x and y columns to perform linear regression.
->y=m*x+C where m is the coefficient and c is the intercept
+>y=m*x+c where m is the coefficient and c is the intercept
 
 Then we used matplotlib to know the relation between the selected columns from the dataset. From the data *Radiation* and *SystemProduction* columns had been selected.
 
